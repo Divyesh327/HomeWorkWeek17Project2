@@ -1,0 +1,77 @@
+2021-07-01 20:07:264 INFO  BasePage :30 - Launching Chrome Browser....
+2021-07-01 20:07:112 INFO  HomePage :30 - Clicking on Register Link : [[ChromeDriver: chrome on WINDOWS (823716f7be3be2457c2412c094336870)] -> link text: Register]
+2021-07-01 20:07:252 INFO  RegisterPage :48 - Verify the Text, Register : [[ChromeDriver: chrome on WINDOWS (823716f7be3be2457c2412c094336870)] -> xpath: //h1[contains(text(),'Register')]]
+2021-07-01 20:07:126 INFO  BasePage :30 - Launching Chrome Browser....
+2021-07-01 20:07:946 INFO  HomePage :30 - Clicking on Register Link : [[ChromeDriver: chrome on WINDOWS (ace4f58bbf1647bcd2f93a5bfbbbd1bd)] -> link text: Register]
+2021-07-01 20:07:533 INFO  BasePage :30 - Launching Chrome Browser....
+2021-07-01 20:07:997 INFO  HomePage :30 - Clicking on Register Link : [[ChromeDriver: chrome on WINDOWS (dfe24f84d17e23dca6367d7c7b999795)] -> link text: Register]
+2021-07-01 20:07:118 INFO  RegisterPage :55 - Select Male Radio Button : [[ChromeDriver: chrome on WINDOWS (dfe24f84d17e23dca6367d7c7b999795)] -> xpath: //input[@id='gender-male']]
+2021-07-01 20:07:262 INFO  RegisterPage :61 - Select First Name [[ChromeDriver: chrome on WINDOWS (dfe24f84d17e23dca6367d7c7b999795)] -> id: FirstName]
+2021-07-01 20:07:402 INFO  RegisterPage :66 - Select Last Name [[ChromeDriver: chrome on WINDOWS (dfe24f84d17e23dca6367d7c7b999795)] -> id: LastName]
+2021-07-01 20:07:598 INFO  LoginPage :37 - Entering email address : divsoni327@gmail.com to email field : [[ChromeDriver: chrome on WINDOWS (dfe24f84d17e23dca6367d7c7b999795)] -> xpath: //input[@id='Email']]
+2021-07-01 20:07:754 INFO  LoginPage :42 - Entering password : Div@123 to password field : [[ChromeDriver: chrome on WINDOWS (dfe24f84d17e23dca6367d7c7b999795)] -> xpath: //input[@id='Password']]
+2021-07-01 20:07:914 INFO  RegisterPage :102 - Enter password : sahi2000 to password field : [[ChromeDriver: chrome on WINDOWS (dfe24f84d17e23dca6367d7c7b999795)] -> id: Password]
+2021-07-01 20:07:15 INFO  RegisterPage :107 - Click on Register button : [[ChromeDriver: chrome on WINDOWS (dfe24f84d17e23dca6367d7c7b999795)] -> id: register-button]
+2021-07-01 20:07:69 INFO  RegisterPage :116 - Verify the Text, Registration Complete : Proxy element for: DefaultElementLocator 'By.xpath: //div[contains(text(),'Your registration completed')]'
+2021-07-01 20:07:482 INFO  BasePage :30 - Launching Chrome Browser....
+2021-07-01 20:07:243 INFO  HomePage :30 - Clicking on Register Link : [[ChromeDriver: chrome on WINDOWS (026444b17dd4bb24a56cda22663eee46)] -> link text: Register]
+2021-07-01 20:07:299 INFO  RegisterPage :48 - Verify the Text, Register : [[ChromeDriver: chrome on WINDOWS (026444b17dd4bb24a56cda22663eee46)] -> xpath: //h1[contains(text(),'Register')]]
+2021-07-01 20:07:211 INFO  BasePage :30 - Launching Chrome Browser....
+2021-07-01 20:07:905 INFO  HomePage :30 - Clicking on Register Link : [[ChromeDriver: chrome on WINDOWS (52a0dda293034e0879d39ca0aadebcb4)] -> link text: Register]
+2021-07-01 20:07:314 INFO  BasePage :30 - Launching Chrome Browser....
+2021-07-01 20:07:530 INFO  HomePage :30 - Clicking on Register Link : [[ChromeDriver: chrome on WINDOWS (4bb69ef756082764239d60b1cc550009)] -> link text: Register]
+2021-07-01 20:07:638 INFO  RegisterPage :55 - Select Male Radio Button : [[ChromeDriver: chrome on WINDOWS (4bb69ef756082764239d60b1cc550009)] -> xpath: //input[@id='gender-male']]
+2021-07-01 20:07:769 INFO  RegisterPage :61 - Select First Name [[ChromeDriver: chrome on WINDOWS (4bb69ef756082764239d60b1cc550009)] -> id: FirstName]
+2021-07-01 20:07:920 INFO  RegisterPage :66 - Select Last Name [[ChromeDriver: chrome on WINDOWS (4bb69ef756082764239d60b1cc550009)] -> id: LastName]
+2021-07-01 20:07:93 INFO  LoginPage :37 - Entering email address : divsoni327@gmail.com to email field : [[ChromeDriver: chrome on WINDOWS (4bb69ef756082764239d60b1cc550009)] -> xpath: //input[@id='Email']]
+2021-07-01 20:07:235 INFO  LoginPage :42 - Entering password : Div@123 to password field : [[ChromeDriver: chrome on WINDOWS (4bb69ef756082764239d60b1cc550009)] -> xpath: //input[@id='Password']]
+2021-07-01 20:07:378 INFO  RegisterPage :102 - Enter password : sahi2000 to password field : [[ChromeDriver: chrome on WINDOWS (4bb69ef756082764239d60b1cc550009)] -> id: Password]
+2021-07-01 20:07:481 INFO  RegisterPage :107 - Click on Register button : [[ChromeDriver: chrome on WINDOWS (4bb69ef756082764239d60b1cc550009)] -> id: register-button]
+2021-07-01 20:07:571 INFO  RegisterPage :116 - Verify the Text, Registration Complete : Proxy element for: DefaultElementLocator 'By.xpath: //div[contains(text(),'Your registration completed')]'
+2021-07-01 20:07:133 INFO  BasePage :30 - Launching Chrome Browser....
+2021-07-01 20:07:726 INFO  HomePage :30 - Clicking on Register Link : [[ChromeDriver: chrome on WINDOWS (ac21f408eb037522cc5bb7ada2ace67e)] -> link text: Register]
+2021-07-01 20:07:772 INFO  RegisterPage :48 - Verify the Text, Register : [[ChromeDriver: chrome on WINDOWS (ac21f408eb037522cc5bb7ada2ace67e)] -> xpath: //h1[contains(text(),'Register')]]
+2021-07-01 20:07:714 INFO  BasePage :30 - Launching Chrome Browser....
+2021-07-01 20:07:200 INFO  HomePage :30 - Clicking on Register Link : [[ChromeDriver: chrome on WINDOWS (88f61299d8cf552094466027e5a920bf)] -> link text: Register]
+2021-07-01 20:07:422 INFO  BasePage :30 - Launching Chrome Browser....
+2021-07-01 20:07:773 INFO  HomePage :30 - Clicking on Register Link : [[ChromeDriver: chrome on WINDOWS (b9d519aaeead35d8cb878d5ba5b75d17)] -> link text: Register]
+2021-07-01 20:07:882 INFO  RegisterPage :55 - Select Male Radio Button : [[ChromeDriver: chrome on WINDOWS (b9d519aaeead35d8cb878d5ba5b75d17)] -> xpath: //input[@id='gender-male']]
+2021-07-01 20:07:825 INFO  BasePage :30 - Launching Chrome Browser....
+2021-07-01 20:07:187 INFO  HomePage :30 - Clicking on Register Link : [[ChromeDriver: chrome on WINDOWS (3220b83bd426ee8eceefcc53f75f4309)] -> link text: Register]
+2021-07-01 20:07:228 INFO  RegisterPage :48 - Verify the Text, Register : [[ChromeDriver: chrome on WINDOWS (3220b83bd426ee8eceefcc53f75f4309)] -> xpath: //h1[contains(text(),'Register')]]
+2021-07-01 20:07:571 INFO  BasePage :30 - Launching Chrome Browser....
+2021-07-01 20:07:446 INFO  HomePage :30 - Clicking on Register Link : [[ChromeDriver: chrome on WINDOWS (234a18d95f9e1641abe2c2a946584ab9)] -> link text: Register]
+2021-07-01 20:07:548 INFO  RegisterPage :55 - Select Male Radio Button : [[ChromeDriver: chrome on WINDOWS (234a18d95f9e1641abe2c2a946584ab9)] -> xpath: //input[@id='gender-male']]
+2021-07-01 20:07:723 INFO  RegisterPage :61 - Select First Name [[ChromeDriver: chrome on WINDOWS (234a18d95f9e1641abe2c2a946584ab9)] -> id: FirstName]
+2021-07-01 20:07:861 INFO  RegisterPage :66 - Select Last Name [[ChromeDriver: chrome on WINDOWS (234a18d95f9e1641abe2c2a946584ab9)] -> id: LastName]
+2021-07-01 20:07:44 INFO  LoginPage :37 - Entering email address : divsoni327@gmail.com to email field : [[ChromeDriver: chrome on WINDOWS (234a18d95f9e1641abe2c2a946584ab9)] -> xpath: //input[@id='Email']]
+2021-07-01 20:07:185 INFO  LoginPage :42 - Entering password : Div@123 to password field : [[ChromeDriver: chrome on WINDOWS (234a18d95f9e1641abe2c2a946584ab9)] -> xpath: //input[@id='Password']]
+2021-07-01 20:07:329 INFO  RegisterPage :102 - Enter password : sahi2000 to password field : [[ChromeDriver: chrome on WINDOWS (234a18d95f9e1641abe2c2a946584ab9)] -> id: Password]
+2021-07-01 20:07:436 INFO  RegisterPage :107 - Click on Register button : [[ChromeDriver: chrome on WINDOWS (234a18d95f9e1641abe2c2a946584ab9)] -> id: register-button]
+2021-07-01 20:07:565 INFO  RegisterPage :116 - Verify the Text, Registration Complete : Proxy element for: DefaultElementLocator 'By.xpath: //div[contains(text(),'Your registration completed')]'
+2021-07-01 20:07:988 INFO  BasePage :30 - Launching Chrome Browser....
+2021-07-01 20:07:593 INFO  HomePage :30 - Clicking on Register Link : [[ChromeDriver: chrome on WINDOWS (c8f2e12a0ba68eb1648a897819393c2e)] -> link text: Register]
+2021-07-01 20:07:638 INFO  RegisterPage :48 - Verify the Text, Register : [[ChromeDriver: chrome on WINDOWS (c8f2e12a0ba68eb1648a897819393c2e)] -> xpath: //h1[contains(text(),'Register')]]
+2021-07-01 20:07:540 INFO  BasePage :30 - Launching Chrome Browser....
+2021-07-01 20:07:261 INFO  HomePage :30 - Clicking on Register Link : [[ChromeDriver: chrome on WINDOWS (bdafd0d813192f82c06f15d784807da7)] -> link text: Register]
+2021-07-01 20:07:367 INFO  RegisterPage :55 - Select Male Radio Button : [[ChromeDriver: chrome on WINDOWS (bdafd0d813192f82c06f15d784807da7)] -> xpath: //input[@id='gender-male']]
+2021-07-01 20:07:530 INFO  RegisterPage :61 - Select First Name [[ChromeDriver: chrome on WINDOWS (bdafd0d813192f82c06f15d784807da7)] -> id: FirstName]
+2021-07-01 20:07:664 INFO  RegisterPage :66 - Select Last Name [[ChromeDriver: chrome on WINDOWS (bdafd0d813192f82c06f15d784807da7)] -> id: LastName]
+2021-07-01 20:07:844 INFO  LoginPage :37 - Entering email address : divsoni327@gmail.com to email field : [[ChromeDriver: chrome on WINDOWS (bdafd0d813192f82c06f15d784807da7)] -> xpath: //input[@id='Email']]
+2021-07-01 20:07:19 INFO  LoginPage :42 - Entering password : Div@123 to password field : [[ChromeDriver: chrome on WINDOWS (bdafd0d813192f82c06f15d784807da7)] -> xpath: //input[@id='Password']]
+2021-07-01 20:07:157 INFO  RegisterPage :102 - Enter password : sahi2000 to password field : [[ChromeDriver: chrome on WINDOWS (bdafd0d813192f82c06f15d784807da7)] -> id: Password]
+2021-07-01 20:07:265 INFO  RegisterPage :107 - Click on Register button : [[ChromeDriver: chrome on WINDOWS (bdafd0d813192f82c06f15d784807da7)] -> id: register-button]
+2021-07-01 20:07:350 INFO  RegisterPage :116 - Verify the Text, Registration Complete : Proxy element for: DefaultElementLocator 'By.xpath: //div[contains(text(),'Your registration completed')]'
+2021-07-01 20:07:919 INFO  BasePage :30 - Launching Chrome Browser....
+2021-07-01 20:07:935 INFO  HomePage :30 - Clicking on Register Link : [[ChromeDriver: chrome on WINDOWS (ba892cb52a4afcafaf3e0a972ca42ca9)] -> link text: Register]
+2021-07-01 20:07:977 INFO  RegisterPage :48 - Verify the Text, Register : [[ChromeDriver: chrome on WINDOWS (ba892cb52a4afcafaf3e0a972ca42ca9)] -> xpath: //h1[contains(text(),'Register')]]
+2021-07-01 20:07:913 INFO  BasePage :30 - Launching Chrome Browser....
+2021-07-01 20:07:861 INFO  HomePage :30 - Clicking on Register Link : [[ChromeDriver: chrome on WINDOWS (5c0c5756ec8d763e285a098b9ecbe63e)] -> link text: Register]
+2021-07-01 20:07:971 INFO  RegisterPage :55 - Select Male Radio Button : [[ChromeDriver: chrome on WINDOWS (5c0c5756ec8d763e285a098b9ecbe63e)] -> xpath: //input[@id='gender-male']]
+2021-07-01 20:07:112 INFO  RegisterPage :61 - Select First Name [[ChromeDriver: chrome on WINDOWS (5c0c5756ec8d763e285a098b9ecbe63e)] -> id: FirstName]
+2021-07-01 20:07:283 INFO  RegisterPage :66 - Select Last Name [[ChromeDriver: chrome on WINDOWS (5c0c5756ec8d763e285a098b9ecbe63e)] -> id: LastName]
+2021-07-01 20:07:476 INFO  LoginPage :37 - Entering email address : divsoni327@gmail.com to email field : [[ChromeDriver: chrome on WINDOWS (5c0c5756ec8d763e285a098b9ecbe63e)] -> xpath: //input[@id='Email']]
+2021-07-01 20:07:633 INFO  LoginPage :42 - Entering password : Div@123 to password field : [[ChromeDriver: chrome on WINDOWS (5c0c5756ec8d763e285a098b9ecbe63e)] -> xpath: //input[@id='Password']]
+2021-07-01 20:07:777 INFO  RegisterPage :102 - Enter password : sahi2000 to password field : [[ChromeDriver: chrome on WINDOWS (5c0c5756ec8d763e285a098b9ecbe63e)] -> id: Password]
+2021-07-01 20:07:883 INFO  RegisterPage :107 - Click on Register button : [[ChromeDriver: chrome on WINDOWS (5c0c5756ec8d763e285a098b9ecbe63e)] -> id: register-button]
+2021-07-01 20:07:979 INFO  RegisterPage :116 - Verify the Text, Registration Complete : Proxy element for: DefaultElementLocator 'By.xpath: //div[contains(text(),'Your registration completed')]'
